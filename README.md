@@ -1,4 +1,4 @@
-# Database of insureance
+# Database of insurance
 requalification final course project
 
 The application contains the management of the insured
