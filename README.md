@@ -1,7 +1,7 @@
 # Database of insurance
-requalification final course project
+Requalification final course project
 
-The application contains the management of the insured
-- Creation of the insured
-- Displaying a list of all insured persons
-- Searching for the insured by name and surname
+This application is designed to manage insured individuals and includes the following features:
+- Creation of new insured individuals
+- Displaying a list of all insured individuals
+- Searching for insured individuals by name and surname.
